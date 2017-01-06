@@ -1,4 +1,4 @@
-# Java novice to Masters (Industry Compliant) course outline
+# Java novice to Master (industry compliant) course outline
 
 
 |   | Title | Breakdown | Time |
