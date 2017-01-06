@@ -135,7 +135,7 @@
 |   |   | Critical Factor in Thread -DeadLock |   |
 | 10 | Strings | String operations |   |
 |   |   | String immutability |   |
-|   |   | Totalizing string |   |
+|   |   | Tokenizing string |   |
 |   |   | String buffer/string builder |   |
 | 11 | Collection Framework | The Java Collections Framework |   |
 |   |   | Collections Interfaces |   |
