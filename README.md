@@ -140,11 +140,11 @@
 |   |   | Method Area |   |
 |   |   | Runtime Constacnt pool |   |
 |   |   | Java Virtual Machine Stacks |   |
-| 10 | Strings | String operations |   |
+| 11 | Strings | String operations |   |
 |   |   | String immutability |   |
 |   |   | Tokenizing string |   |
 |   |   | String buffer/string builder |   |
-| 11 | Collection Framework | The Java Collections Framework |   |
+| 12 | Collection Framework | The Java Collections Framework |   |
 |   |   | Collections Interfaces |   |
 |   |   | java.util.Collection |   |
 |   |   | java.util.List |   |
@@ -156,7 +156,7 @@
 |   |   | java.util.HashSet |   |
 |   |   | Iterating through Collections |   |
 |   |   | java.util.Iterator |   |
-| 12 | Lambda Expression &amp; Stream API | What is lambda expression |   |
+| 13 | Lambda Expression &amp; Stream API | What is lambda expression |   |
 |   |   | Structure of lambda expression |   |
 |   |   | Passing code with behavior parametrization |   |
 |   |   | Tackling verbosity |   |
@@ -177,13 +177,13 @@
 |   |   | Putting it all in practice |   |
 |   |   | Numeric stream |   |
 |   |   | Parallel Stream |   |
-| 13 | Dates and Time Zones | Computer Time |   |
+| 14 | Dates and Time Zones | Computer Time |   |
 |   |   | Time Synchronization |   |
 |   |   | Human Time Interpretation |   |
 |   |   | java.util.Date |   |
 |   |   | java.time.LocalDate |   |
 |   |   | JSR310 vs Joda Time |   |
-| 14 | Logging | Why log |   |
+| 15 | Logging | Why log |   |
 |   |   | Logging API |   |
 |   |   | Jakarta Common Logging |   |
 |   |   | Log4j API |   |
@@ -193,14 +193,14 @@
 |   |   | Appender Additivity |   |
 |   |   | Configuration |   |
 |   |   | How to analyze logs |   |
-| 15 | Java Database connectivity | JDBC drivers |   |
+| 16 | Java Database connectivity | JDBC drivers |   |
 |   |   | Database operations |   |
 |   |   | Query, update and prepared statement |   |
 |   |   | Transaction management |   |
 |   |   | Using RowSet objects |   |
 |   |   | Using ResultSet objects |   |
 |   |   | Using stored procedure |   |
-| 16 | Java Servlet/JSP | Understanding HTTP protocol |   |
+| 17 | Java Servlet/JSP | Understanding HTTP protocol |   |
 |   |   | What is Servlet |   |
 |   |   | Servlet Life cycle |   |
 |   |   | Web Server/Web container |   |
@@ -210,7 +210,7 @@
 |   |   | Session |   |
 |   |   | Filter |   |
 |   |   | What is JSP and why |   |
-| 17 | Build Tool | About Gradle |   |
+| 18 | Build Tool | About Gradle |   |
 |   |   | Gradle build script |   |
 |   |   | Defining Task |   |
 |   |   | Executing Task |   |
