@@ -16,6 +16,7 @@
 |   |   | Compilation &amp; Execution |   |
 |   |   | Hello world Program |   |
 |   |   | Performing basic arithmetic operation and input taking from console |   |
+|   |   | How to run java program in Command Line  |   |
 | 3 | Basic Java programming Structure and Language Elements | Keywords, Literals, Comments |   |
 |   |   | Data Types |   |
 |   |   | Operators &amp; Assignments |   |
@@ -58,20 +59,15 @@
 | 6 | Generics | Generics in Java |   |
 |   |   | How generics works in Java |   |
 |   |   | Bounded Types |   |
-|   |   | Wild card arguments |   |
+|   |   | Generics, Inheritance, and Subtypes |   |
+|   |   | Type Inference |   |
+|   |   | Wildcard arguments |   |
 |   |   | Generic Method |   |
 |   |   | Type Erasure |   |
-| 7 | Java I/O | Object Serialization |   |
-|   |   | Simple Object Serialization |   |
-|   |   | Serializable Fields |   |
+|   |   | Restrictions on Generics |   |
+| 7 | Java I/O | Serialization/Externalizable |   |
 |   |   | readObject() / writeObject() |   |
-|   |   | Controlling Serialization |   |
-|   |   | Externalizable |   |
 |   |   | Serial Object Versioning |   |
-|   |   | Compatible Class Changes |   |
-|   |   | Incompatible Class Changes |   |
-|   |   | Overriding Versioning |   |
-|   |   | Serialization Performance |   |
 |   |   | Streams- input/output streams |   |
 |   |   | Writing/reading file using streams |   |
 |   |   | Java I/O utility classess |   |
@@ -103,12 +99,9 @@
 |   |   | Reflection Package |   |
 |   |   | Retrieving Class Objects |   |
 |   |   | Working with Class Objects |   |
-|   |   | Accessing fields |   |
-|   |   | Accessing methods |   |
+|   |   | Accessing fields/methods |   |
 |   |   | Generics |   |
-|   |   | Manipulating Objects |   |
-|   |   | Working with objects |   |
-|   |   | Creating new objects |   |
+|   |   | Manipulating/working with Objects |   |
 |   |   | Getting and Setting Fields |   |
 |   |   | Invoking Methods |   |
 |   |   | Casting through Reflection |   |
@@ -126,6 +119,9 @@
 |   |   | Implementing own ClassLoader |   |
 |   |   | The defineClass Method |   |
 |   |   | Java Annotation processing |   |
+|   |   | Declaring an Annotation Type |   |
+|   |   | Predefined Annotation Types |   |
+|   |   | How to write custom annoation |   |
 | 9 | Thread | Understanding Threads |   |
 |   |   | Needs of Multi-Threaded Programming. |   |
 |   |   | Thread Life-Cycle |   |
@@ -133,6 +129,17 @@
 |   |   | Synchronizing Threads |   |
 |   |   | Inter Communication of Threads |   |
 |   |   | Critical Factor in Thread -DeadLock |   |
+|   |   | High Level Concurrency Objects |   |
+|   |   | Thread Analysis with VisualVM |   |
+| 10 | Java Memory model | String operations |   |
+|   |   | Java Memory model |   |
+|   |   | Stack based architecture  |   |
+|   |   | Bytecode |   |
+|   |   | Runtime Data Areas |   |
+|   |   | Heap |   |
+|   |   | Method Area |   |
+|   |   | Runtime Constacnt pool |   |
+|   |   | Java Virtual Machine Stacks |   |
 | 10 | Strings | String operations |   |
 |   |   | String immutability |   |
 |   |   | Tokenizing string |   |
@@ -185,11 +192,13 @@
 |   |   | Level of inheritance |   |
 |   |   | Appender Additivity |   |
 |   |   | Configuration |   |
+|   |   | How to analyze logs |   |
 | 15 | Java Database connectivity | JDBC drivers |   |
 |   |   | Database operations |   |
 |   |   | Query, update and prepared statement |   |
 |   |   | Transaction management |   |
 |   |   | Using RowSet objects |   |
+|   |   | Using ResultSet objects |   |
 |   |   | Using stored procedure |   |
 | 16 | Java Servlet/JSP | Understanding HTTP protocol |   |
 |   |   | What is Servlet |   |
